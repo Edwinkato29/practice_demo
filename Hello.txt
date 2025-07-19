@@ -1,5 +1,2 @@
-
-Welcome to the main branch
-
-Welcome to the dev branch
+Hello, World!
 
